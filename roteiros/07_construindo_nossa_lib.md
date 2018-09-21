@@ -310,3 +310,6 @@ A função pipe() precisava de uma ajuda para aplicar a função parcial, o que 
 ## Conclusões
 
 Com isso acabamos todo nosso discurso sobre funções de ordem superior (HOFs). Se você quiser parar agora, você pode, mas eu juro que a parte mais legal vai começar a rolar agora. Vamos falar de closures, decoradores e algumas substituições modernas para map() e filter().
+
+
+![Alt Text](https://github.com/Matiusco/python-funcional/blob/f5dfff016d204da3160a8a4683e5e81b9a7065f4/ursopicapau.gif)
